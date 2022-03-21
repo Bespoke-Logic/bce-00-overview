@@ -6,8 +6,8 @@ This is a project series to explore blockchain and web3 development, starting wi
 
 ### (Work in progress) Progression of projects
 
-* ERC20
-* NFT 721
+* [ERC20](https://github.com/Bespoke-Logic/bce-01-erc20)
+* [NFT 721](https://github.com/Bespoke-Logic/bce-02-erc721)
 * NFT 1152
 * Single token staking
 * Locked staking
