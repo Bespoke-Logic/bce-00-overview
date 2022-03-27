@@ -14,3 +14,5 @@ This is a project series to explore blockchain and web3 development, starting wi
 * AccessControl/Roles
 * English Auction (of NFT)
 * Dutch Auction (of NFT) (with reserve?)
+* IPFS
+* Subscriptions
