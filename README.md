@@ -12,7 +12,7 @@ This is a project series to explore blockchain and web3 development, starting wi
 * NFT 1152
 * [Single token staking](https://github.com/Bespoke-Logic/bce-04-locked-staking)
 * AccessControl/Roles
-* English Auction (of NFT)
+* [English Auction (of NFT)](https://github.com/Bespoke-Logic/bce-03-nft-auction)
 * Dutch Auction (of NFT) (with reserve?)
 * IPFS
 * Subscriptions
